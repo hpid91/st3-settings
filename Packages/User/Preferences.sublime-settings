@@ -1,11 +1,14 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by syntax-specific settings.
 {
-	 "installed_packages":
-    [
-        "Emmet",
-        "Language - French - Français",
-        "PackageResourceViewer",
-        "Theme - Afterglow"
-    ]
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Language - French - Français",
+		"PackageResourceViewer",
+		"Theme - Afterglow"
+	]
 }

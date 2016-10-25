@@ -1,7 +1,29 @@
 {
 	"bootstrapped": true,
-	"proxy_username":"APPT0142244",
-    "proxy_password":"MOv5aIy",
-    "http_proxy":"gwhttp-app.corp.thales:8000",
-    "https_proxy":"gwhttp-app.corp.thales:8000"
+	"in_process_packages":
+	[
+		"SublimeCodeIntel"
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"All Autocomplete",
+		"Anaconda",
+		"AngularJS",
+		"AutoHotkey",
+		"Babel",
+		"DocBlockr",
+		"GitGutter",
+		"JsFormat",
+		"JSHint",
+		"LaTeXing",
+		"Python 3",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SidebarSeparator",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Theme - SoDaReloaded",
+		"TypeScript"
+	]
 }
