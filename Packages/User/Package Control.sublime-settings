@@ -1,0 +1,7 @@
+{
+	"bootstrapped": true,
+	"proxy_username":"APPT0142244",
+    "proxy_password":"MOv5aIy",
+    "http_proxy":"gwhttp-app.corp.thales:8000",
+    "https_proxy":"gwhttp-app.corp.thales:8000"
+}
